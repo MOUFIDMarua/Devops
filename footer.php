@@ -42,7 +42,7 @@
 		   <hr>
            <div class="row justify-content-center">             
                      <div class="col-auto">					
-                    <p>&copy; Copyright 2023 AGRICULTURE PORTAL, All Rights Reserved </p>
+                    <p>&copy; ANA HIBA 2023 AGRICULTURE PORTAL, All Rights Reserved </p>
                 </div>
            </div>
         </div>

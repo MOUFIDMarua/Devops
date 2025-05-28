@@ -4,9 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="icon" type="image/png" href="assets/img/logo.png" />
-    <title>ANA SARA
-      
-    </title>
+    <title>ANA SARA</title>
 
   <!--     Fonts and icons     -->
   
